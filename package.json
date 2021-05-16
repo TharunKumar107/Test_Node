@@ -21,6 +21,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "@wdio/mocha-framework": "^7.5.3",
     "jenkins-mocha": "latest",
     "mocha": "^8.4.0",
     "mocha-junit-reporter": "^2.0.0",
