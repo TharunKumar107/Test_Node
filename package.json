@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ci-test": "istanbul cover tape \"test/*-test.js\" > test.tap && istanbul report clover"
+    "test": "mocha --recursive"
   },
   "repository": {
     "type": "git",
